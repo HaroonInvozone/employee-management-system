@@ -22,7 +22,7 @@ namespace EmployeeManagmentSystem.ApiController
         {
             return await _employeeService.GetAllEmploy();
         }
-        [HttpGet("{id}")]
+        [HttpGet("{id}"), Route("get-employees")]
         public async Task<ActionResult<Employee>> GetEmployee(int id)
         {
             var employee = await _employeeService.GetEmpById(id);
@@ -35,7 +35,7 @@ namespace EmployeeManagmentSystem.ApiController
             return employee;
         }
 
-        [HttpPost]
+        [HttpPost,, Route("create-employees")]
         public async Task<ActionResult<bool>> PostEmployee(Employee employee)
         {
             var result = await _employeeService.CreateEmploy(employee);
@@ -47,14 +47,14 @@ namespace EmployeeManagmentSystem.ApiController
             }
         }
 
-        [HttpPut("{id}")]
+        [HttpPut("{id}"),, Route("edit-employees")]
         public async Task<IActionResult> PutEmployee(Employee employee)
         {
             await _employeeService.EditEmploy(employee);
             return Ok();
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("{id}"), Route("delete-employees")]
         public async Task<ActionResult<Employee>> DeleteEmployee(int id)
         {
            await _employeeService.DeleteEmploy(id);
