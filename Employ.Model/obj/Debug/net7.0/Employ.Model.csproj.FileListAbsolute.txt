@@ -1,0 +1,14 @@
+D:\InvoZone\DBTest\Employ.Model\bin\Debug\net7.0\Employ.Model.deps.json
+D:\InvoZone\DBTest\Employ.Model\bin\Debug\net7.0\Employ.Model.runtimeconfig.json
+D:\InvoZone\DBTest\Employ.Model\bin\Debug\net7.0\Employ.Model.dll
+D:\InvoZone\DBTest\Employ.Model\bin\Debug\net7.0\Employ.Model.pdb
+D:\InvoZone\DBTest\Employ.Model\obj\Debug\net7.0\Employ.Model.csproj.AssemblyReference.cache
+D:\InvoZone\DBTest\Employ.Model\obj\Debug\net7.0\Employ.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\InvoZone\DBTest\Employ.Model\obj\Debug\net7.0\Employ.Model.AssemblyInfoInputs.cache
+D:\InvoZone\DBTest\Employ.Model\obj\Debug\net7.0\Employ.Model.AssemblyInfo.cs
+D:\InvoZone\DBTest\Employ.Model\obj\Debug\net7.0\Employ.Model.csproj.CoreCompileInputs.cache
+D:\InvoZone\DBTest\Employ.Model\obj\Debug\net7.0\Employ.Model.dll
+D:\InvoZone\DBTest\Employ.Model\obj\Debug\net7.0\refint\Employ.Model.dll
+D:\InvoZone\DBTest\Employ.Model\obj\Debug\net7.0\Employ.Model.pdb
+D:\InvoZone\DBTest\Employ.Model\obj\Debug\net7.0\Employ.Model.genruntimeconfig.cache
+D:\InvoZone\DBTest\Employ.Model\obj\Debug\net7.0\ref\Employ.Model.dll
