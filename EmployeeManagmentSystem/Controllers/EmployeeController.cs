@@ -9,7 +9,6 @@ namespace EmployeeManagmentSystem.Controllers
 {
     public class EmployeeController : Controller
     {
-        //private readonly EmployeeDbContext _context;
         private readonly IEmployeeService _employeeService;
 
         public EmployeeController(IEmployeeService employeeService)
@@ -20,8 +19,8 @@ namespace EmployeeManagmentSystem.Controllers
         // GET: Employee
         public async Task<IActionResult> Index()
         {
-            var x = await _employeeService.GetAllEmploy();
-            return View(x);
+            var result = await _employeeService.GetAllEmploy();
+            return View(result);
         }
 
         // GET: Employee/Create
