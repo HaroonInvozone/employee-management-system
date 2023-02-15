@@ -9,6 +9,7 @@ namespace EmployeeManagmentSystem.Controllers
 {
     public class EmployeeController : Controller
     {
+        //private readonly EmployeeDbContext _context;
         private readonly IEmployeeService _employeeService;
 
         public EmployeeController(IEmployeeService employeeService)

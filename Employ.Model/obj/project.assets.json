@@ -3499,11 +3499,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Model\\Employ.Model.csproj",
       "projectName": "Employ.Model",
       "projectPath": "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Model\\Employ.Model.csproj",
       "packagesPath": "C:\\Users\\Haroon Ali\\.nuget\\packages\\",
       "outputPath": "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Model\\obj\\",
+=======
+      "projectUniqueName": "D:\\InvoZone\\DBTest\\Employ.Model\\Employ.Model.csproj",
+      "projectName": "Employ.Model",
+      "projectPath": "D:\\InvoZone\\DBTest\\Employ.Model\\Employ.Model.csproj",
+      "packagesPath": "C:\\Users\\Haroon Ali\\.nuget\\packages\\",
+      "outputPath": "D:\\InvoZone\\DBTest\\Employ.Model\\obj\\",
+>>>>>>> 3f06f667f4794d9646581edee952c95d0ccfa737
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3539,11 +3539,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Business\\Employ.Business.csproj",
       "projectName": "Employ.Business",
       "projectPath": "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Business\\Employ.Business.csproj",
       "packagesPath": "C:\\Users\\Haroon Ali\\.nuget\\packages\\",
       "outputPath": "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Business\\obj\\",
+=======
+      "projectUniqueName": "D:\\InvoZone\\DBTest\\Employ.Business\\Employ.Business.csproj",
+      "projectName": "Employ.Business",
+      "projectPath": "D:\\InvoZone\\DBTest\\Employ.Business\\Employ.Business.csproj",
+      "packagesPath": "C:\\Users\\Haroon Ali\\.nuget\\packages\\",
+      "outputPath": "D:\\InvoZone\\DBTest\\Employ.Business\\obj\\",
+>>>>>>> 3f06f667f4794d9646581edee952c95d0ccfa737
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3565,8 +3573,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+<<<<<<< HEAD
             "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Data\\Employ.Data.csproj": {
               "projectPath": "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Data\\Employ.Data.csproj"
+=======
+            "D:\\InvoZone\\DBTest\\Employ.Data\\Employ.Data.csproj": {
+              "projectPath": "D:\\InvoZone\\DBTest\\Employ.Data\\Employ.Data.csproj"
+>>>>>>> 3f06f667f4794d9646581edee952c95d0ccfa737
             }
           }
         }

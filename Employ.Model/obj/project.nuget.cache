@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "7MuD64wh4FKSAjggOgCjVG1lXX2V26nuEgVaIGZliTJDsNrftey7FmcczR6BWZrn0wplntjBc48dkFCTMbk4gQ==",
   "success": true,
   "projectFilePath": "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Model\\Employ.Model.csproj",
+=======
+  "dgSpecHash": "wUikPcnD5QHa89WG6Pv+s7//4Bj3V5IRzqFxWITddg5bjgNc+1kWMmAPqn1soRWDUnTLeN63ZUbdHY2q8wu8hg==",
+  "success": true,
+  "projectFilePath": "D:\\InvoZone\\DBTest\\Employ.Model\\Employ.Model.csproj",
+>>>>>>> 3f06f667f4794d9646581edee952c95d0ccfa737
   "expectedPackageFiles": [
     "C:\\Users\\Haroon Ali\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Haroon Ali\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

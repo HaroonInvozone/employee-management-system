@@ -3561,11 +3561,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\InvoZone\\Managment\\employee-management-system\\EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj",
       "projectName": "EmployeeManagmentSystem",
       "projectPath": "D:\\InvoZone\\Managment\\employee-management-system\\EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj",
       "packagesPath": "C:\\Users\\Haroon Ali\\.nuget\\packages\\",
       "outputPath": "D:\\InvoZone\\Managment\\employee-management-system\\EmployeeManagmentSystem\\obj\\",
+=======
+      "projectUniqueName": "D:\\InvoZone\\DBTest\\EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj",
+      "projectName": "EmployeeManagmentSystem",
+      "projectPath": "D:\\InvoZone\\DBTest\\EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj",
+      "packagesPath": "C:\\Users\\Haroon Ali\\.nuget\\packages\\",
+      "outputPath": "D:\\InvoZone\\DBTest\\EmployeeManagmentSystem\\obj\\",
+>>>>>>> 3f06f667f4794d9646581edee952c95d0ccfa737
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3587,6 +3595,7 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+<<<<<<< HEAD
             "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Business\\Employ.Business.csproj": {
               "projectPath": "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Business\\Employ.Business.csproj"
             },
@@ -3595,6 +3604,16 @@
             },
             "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Model\\Employ.Model.csproj": {
               "projectPath": "D:\\InvoZone\\Managment\\employee-management-system\\Employ.Model\\Employ.Model.csproj"
+=======
+            "D:\\InvoZone\\DBTest\\Employ.Business\\Employ.Business.csproj": {
+              "projectPath": "D:\\InvoZone\\DBTest\\Employ.Business\\Employ.Business.csproj"
+            },
+            "D:\\InvoZone\\DBTest\\Employ.Data\\Employ.Data.csproj": {
+              "projectPath": "D:\\InvoZone\\DBTest\\Employ.Data\\Employ.Data.csproj"
+            },
+            "D:\\InvoZone\\DBTest\\Employ.Model\\Employ.Model.csproj": {
+              "projectPath": "D:\\InvoZone\\DBTest\\Employ.Model\\Employ.Model.csproj"
+>>>>>>> 3f06f667f4794d9646581edee952c95d0ccfa737
             }
           }
         }
